@@ -6,9 +6,7 @@ function myFunction1() {
       x.style.display = "block";
     }
   }
-  // AOS.init({
-  //   // duration: 1200,
-  // })
+
   AOS.init();
 
   function myFunction() {
